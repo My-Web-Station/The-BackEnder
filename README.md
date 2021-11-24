@@ -29,3 +29,16 @@ socket="C:/xampp/mysql/mysql.sock"
 - Change the portnumber, (at port = xxxx)
 - Save the file.
 - Restart the server.
+
+
+
+
+
+
+
+
+
+
+
+
+&copy; BackEnder
