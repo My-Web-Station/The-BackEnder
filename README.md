@@ -31,6 +31,13 @@ socket="C:/xampp/mysql/mysql.sock"
 - Restart the server.
 
 
+## Contents:
+
+| Sl. No. | Contents | Type | 
+|---------|----------|------|
+| 1 | [Simple Form Submission]() | PHP |
+
+
 
 
 
