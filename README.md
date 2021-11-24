@@ -41,4 +41,4 @@ socket="C:/xampp/mysql/mysql.sock"
 
 
 
-&copy; BackEnder
+&copy; BackEnder-MWS 2022
